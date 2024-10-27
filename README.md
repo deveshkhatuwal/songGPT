@@ -3,7 +3,8 @@
 SongGPT is a Flutter-based mobile application designed to help users create and explore songs using AI-generated suggestions and a rich library of predefined content.
 
 ## Features
-<video src="images/screen-20241027-084239.mp4" controls="controls" width="600" height="400"></video>
+<video src="images/screen-20241027-084239.mp4" controls="controls" width="600" height="400">
+ Your browser does not support the video tag.</video>
 - **Home Screen**: Browse and search for songs.
 - <img src="images/homepage_dark.png" alt="Main Page Screenshot" width="350">
 - <img src="images/homepage_light.png" alt="Gallery Screenshot" width="350">
