@@ -5,15 +5,18 @@ SongGPT is a Flutter-based mobile application designed to help users create and 
 ## Features
 
 - **Home Screen**: Browse and search for songs.
-- 
+- <img src="images/homepage_dark.png" alt="Main Page Screenshot" width="350">
+- <img src="images/homepage_light.png" alt="Gallery Screenshot" width="350">
 - **AI Chat**: Interact with an AI to generate song ideas.
-- <img src="images/homepage_dark.png" alt="Main Page Screenshot" width="600">
-  <img src="images/homepage_light.png" alt="Gallery Screenshot" width="600">
+- <img src="images/chat_darkmode.png" alt="Main Page Screenshot" width="350">
+- <img src="images/ai_generated.png" alt="Gallery Screenshot" width="350">
 
-- 
 - **Song Detail Screen**: View detailed information about songs, including cover art, basic information, and lyrics.
+- 
+- <img src="images/ai_generated_darkMode.png" alt="Gallery Screenshot" width="350">
 - **Profile Screen**: Manage user profiles, liked songs, and user-generated songs.
-
+- <img src="images/profile_darkmode.png" alt="Gallery Screenshot" width="350">
+- <img src="images/profile_lightmode.png" alt="Gallery Screenshot" width="350">
 ## Installation
 
 1. **Clone the repository**:
