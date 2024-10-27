@@ -1,16 +1,30 @@
 # songgpt
 
-A new Flutter project.
+# songGPT
+# SongGPT
 
-## Getting Started
+SongGPT is a Flutter-based mobile application designed to help users create and explore songs using AI-generated suggestions and a rich library of predefined content.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Home Screen**: Browse and search for songs.
+- 
+- **AI Chat**: Interact with an AI to generate song ideas.
+- **Song Detail Screen**: View detailed information about songs, including cover art, basic information, and lyrics.
+- **Profile Screen**: Manage user profiles, liked songs, and user-generated songs.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
+    git clone https://github.com/yourusername/SongGPT.git
+    cd SongGPT
+2. **Install dependencies**:
+    flutter pub get
+3. **Run the app**:
+    ```sh
+    flutter run
+    ```
+
+## Folder Structure
+
+lib/ |- core/ | |- theme/ | | |- app_colors.dart | | |- app_fonts.dart | | |- theme.dart | | |- theme_notifier.dart | |- widgets/ | |- custom_app_bar.dart |- data/ | |- models/ | | |- song_model.dart | |- providers/ | |- auth_provider.dart | |- chat_provider.dart | |- navigation_provider.dart | |- repositories/ | |- song_repository.dart |- presentation/ | |- screens/ | | |- home_screen.dart | | |- chat_screen.dart | | |- song_detail_screen.dart | | |- profile_screen.dart | |- widgets/ | |- custom_textfield.dart | |- song_tile.dart | |- chat_bubble.dart |- utils/ | |- validators.dart |- main.dart
